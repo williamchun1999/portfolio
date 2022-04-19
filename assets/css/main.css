@@ -3749,6 +3749,28 @@ input, select, textarea {
 	body.is-preload #banner:after {
 		opacity: 1;
 	}
+/* One */
+	#one img {
+		padding: 0;
+		border: 2px solid #c8ece9;
+		max-width: 100%;
+		height: auto;
+		object-fit: cover;
+	}
+	@media screen and (max-width: 736px) {
+		#one img {
+			
+			height: 80%;
+			width: 90%;
+		}
+		#one section.col-4 {
+			height:auto;
+			display: flex;
+			justify-content: center;
+			align-content: center;
+			align-items: center;
+		}
+	}
 
 /* CTA */
 
