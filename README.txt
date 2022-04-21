@@ -1,37 +1,14 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#My Freelancing Portfolio
 
+A website design from @ajlkn at HTML5 UP. Free for personal and commercial use under the CCA 3.0 license (html5up.net/license). Altered into a freelancing web developer portfolio. 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+**Link to website design:** https://williamchun.netlify.app
 
-- It's built with components from my Responsive Tools project.
+## How It's Made:
+**Tech used:** HTML, CSS, Javascript
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
+##Credits: 
+	Website Design: aj@lkn.io | @ajlkn
 
 	Demo Images:
 		Unsplash (unsplash.com)
