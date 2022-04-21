@@ -7,7 +7,7 @@ A website design from @ajlkn at HTML5 UP. Free for personal and commercial use u
 ## How It's Made:
 **Tech used:** HTML, CSS, Javascript
 
-##Credits: 
+## Credits: 
 	Website Design: aj@lkn.io | @ajlkn
 
 	Demo Images:
